@@ -26,5 +26,5 @@ Object.entries(conflicts).forEach(([name, coords]) => {
     fillOpacity: 0.3
   })
   .addTo(map)
-  .bindPopup(`<b>${name}</b><br><a href="conflicts/${name.toLowerCase().replace(/–|\s+/g, '-').replace(/-+/g, '-')}.html">View Conflict</a>`);
+ .bindPopup(`<b>${name}</b><br><a href="conflicts/${name.toLowerCase().replace(/–|\s+/g, '-').replace(/-+/g, '-')}.html">View Conflict</a>`);
 });
