@@ -11,7 +11,7 @@ var conflicts = {
   "Sudan–South Sudan": [9.145, 30.5],
   "Cuba–USA": [21.5, -77.8],
   "Ukraine–Russia": [48.3, 31.2],
-  "South Asia": [28.5, 77], // renamed from India–China–Pakistan
+  "South Asia": [35.6, 77], // renamed from India–China–Pakistan
   "North Korea–South Korea–USA": [39.2, 127],
   "Yemen–Saudi Arabia": [15.5, 45],
   "Taiwan–China–USA": [23.5, 121],
